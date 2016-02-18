@@ -1,0 +1,1 @@
+ALTER TABLE `tb_autorizaciones` ADD `fechaLlamada` DATETIME NULL DEFAULT NULL AFTER `tb_estadoAutorizacion_id`;
